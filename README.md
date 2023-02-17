@@ -9,3 +9,5 @@ Paper and Scissor =>Scissor win
 Rock and Scissor =>Rock win
 
 Paper and Rock =>Paper win
+
+![Screenshot_20221213_032252](https://user-images.githubusercontent.com/107416261/219744638-e8c6c92d-629a-472e-a6d3-e3429c6ec425.png)
