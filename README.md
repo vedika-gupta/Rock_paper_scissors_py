@@ -5,5 +5,7 @@ Rock paper scissor is a hand game usually played between two people, in which ea
 Game Winner Condition:
 
 Paper and Scissor =>Scissor win
+
 Rock and Scissor =>Rock win
+
 Paper and Rock =>Paper win
